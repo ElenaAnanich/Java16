@@ -12,9 +12,9 @@ public class Player {
         return Strength;
     }
 
-    public Player(int id, String name, int Strength){
-        this.id =id;
-        this.name =name;
-        this.Strength =Strength;
+    public Player(int id, String name, int Strength) {
+        this.id = id;
+        this.name = name;
+        this.Strength = Strength;
     }
 }
